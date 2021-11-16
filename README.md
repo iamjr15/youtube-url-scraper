@@ -10,4 +10,3 @@ If you want to get all the video links from CBC channel, so just run the command
 
 	python3 youtube-url-scraper.py https://www.youtube.com/user/CBCtv/videos
 	
-Example result CBCtv-202001011120.list was uploaded
